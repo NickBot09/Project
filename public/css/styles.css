@@ -1,0 +1,73 @@
+.carousel {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+}
+.c-item {
+    height: 75vh;
+    width: 100vw;
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.container-cart {
+    max-width: 960px;
+  }
+
+.card-img-top{
+    height: 20rem;
+    object-fit: cover;
+}
+
+.text {
+    margin-bottom: 17rem;
+    margin-left: 9rem;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-stretch: ultra-expanded;
+}
+
+.text2 {
+    margin-bottom: 17rem;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-stretch: ultra-expanded;
+}
+
+.text3 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-stretch: ultra-expanded;
+    margin-bottom: 15rem;
+}
+
+.c-2 {
+    filter: brightness(0.8);
+}
+
+.test {
+    margin-top: 43rem;
+    
+}
+
+.new {
+    background-color: bisque;
+}
+
+.features{
+    margin-top: 10rem;
+}
+
+.footer{
+    color: white;
+    padding: 2.5rem;
+    margin-top: 5rem;
+}
+
+.proHeading {
+    font-family: 'Poppins', sans-serif;
+}
